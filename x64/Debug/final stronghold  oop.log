@@ -1,0 +1,14 @@
+﻿  ArmyUnit.cpp
+  Bank.cpp
+  Economy.cpp
+  Event.cpp
+  Kingdom.cpp
+C:\Users\DELL\source\repos\final stronghold  oop\final stronghold  oop\Kingdom.cpp(67,13): warning C4129: '*': unrecognized character escape sequence
+  Leader.cpp
+  Loan.cpp
+  main.cpp
+  Population.cpp
+  Resource.cpp
+  SocialClass.cpp
+  Generating Code...
+  final stronghold  oop.vcxproj -> C:\Users\DELL\source\repos\final stronghold  oop\x64\Debug\final stronghold  oop.exe
